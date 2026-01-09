@@ -7,3 +7,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` JavaScript
+function returnValue(n) {
+  return(n);
+}
+```
+
+
